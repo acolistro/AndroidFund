@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ExampleApp</string>
-    <string name="button">Button</string>
+    <string name="btnSubmit">Button</string>
     <string name="helloText">Hello Again</string>
-    <string name="label">This is a Label</string>
+    <string name="btnClear">Press to Clear</string>
+    <string name="email">Enter email here!</string>
 </resources>
